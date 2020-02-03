@@ -1,0 +1,6 @@
+django<3
+graphene-django
+pip-tools
+django-filter
+django-cors-headers
+django-graphql-jwt
